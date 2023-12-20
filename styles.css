@@ -99,6 +99,13 @@ a {
 
 }
 
+.promo {
+    background-color: #495E57;
+    color: white;
+    display: inline-flex;
+    font-weight: bold;
+}
+
 .i:hover:hover{
     transform: scale(110%);
     transition: transform 0.5s;
